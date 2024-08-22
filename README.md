@@ -1,1 +1,2 @@
 # Tiktok_climatechange_communication
+In this project, we examine this phenomenon by focusing on one of the most popular social media, TikTok and its sister app Douyin. We use API and web scraping to collect data from these two apps from Jun. 2023 to Feb. 2024. Next, we classify the videos, at first, into environmentally related and unrelated, then further categorize the environmentally related videos into science communication, policy communication, social activism, and other relevant subcategories through a fine-tuned Large Language Model.
